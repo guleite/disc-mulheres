@@ -479,7 +479,7 @@
       </section>
 
       <footer class="foot">
-        <p>Este teste é uma ferramenta rápida de autoconhecimento inspirada na teoria DISC (William Moulton Marston, 1928). Não substitui o mapeamento comportamental completo nem uma avaliação psicológica.</p>
+        <p>Este teste é uma ferramenta rápida de autoconhecimento inspirada na teoria DISC (William Moulton Marston, 1928). Não substitui o mapeamento comportamental completo.</p>
         <button type="button" class="restart" id="btnRestart">Refazer o teste</button>
       </footer>`;
 
