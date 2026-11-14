@@ -15,5 +15,5 @@ window.DISC_CONFIG = {
 
   // URL do App da Web do Google Apps Script (veja apps-script.gs).
   // Vazio = as respostas só aparecem no console do navegador.
-  SHEETS_ENDPOINT: ''
+  SHEETS_ENDPOINT: 'https://script.google.com/macros/s/AKfycbwzYJS90d2OjKa9XAPIqP7nNz0kTne1CpQ5U8vcdGXVi_COdgtUaFANaIV_NRzbkWpr/exec'
 };
