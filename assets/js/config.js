@@ -3,11 +3,11 @@
    ========================================================== */
 window.DISC_CONFIG = {
   // Nome do evento (aparece na abertura, no resultado e no PDF)
-  EVENT_NAME: 'Encontro de Mulheres',
+  EVENT_NAME: 'Amigas 17:17',
   EVENT_TAGLINE: 'Amizade, conexão e relacionamentos',
 
   // WhatsApp da Alexsandra (só números, com 55 + DDD)
-  WHATSAPP: '5561983360915',
+  WHATSAPP: '5561983361441',
   ANALYST_NAME: 'Alexsandra',
   ANALYST_ROLE: 'Analista Comportamental DISC',
   // Foto opcional da Alexsandra (ex.: 'assets/img/alexsandra.jpg'). Vazio = monograma.

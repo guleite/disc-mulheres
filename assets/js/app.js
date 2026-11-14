@@ -319,7 +319,7 @@
 
   function waLink(r) {
     const p = PROFILES[r.primary];
-    const msg = `Oi, ${CFG.ANALYST_NAME || ''}! Sou a ${firstName()} e fiz o teste DISC no ${CFG.EVENT_NAME || 'evento'}. Meu perfil deu ${p.nome} (${p.apelido}, ${r.pct[r.primary]}%). Quero saber mais sobre a Análise DISC completa! 💛`;
+    const msg = `Oi, ${CFG.ANALYST_NAME || ''}! Sou a ${firstName()} e fiz o teste DISC no evento ${CFG.EVENT_NAME || ''}. Meu perfil deu ${p.nome} (${p.apelido}, ${r.pct[r.primary]}%). Quero saber mais sobre a Análise DISC completa! 💛`;
     return `https://wa.me/${CFG.WHATSAPP}?text=${encodeURIComponent(msg)}`;
   }
 
